@@ -1,0 +1,6 @@
+{
+  "name": "Auto Shorts Clip Generator",
+  "description": "Automatically identify compelling highlights from long-form videos and export them into customized high-quality short clips for social media sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
